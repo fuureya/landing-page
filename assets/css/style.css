@@ -70,6 +70,10 @@ body {
 .banner-main-con2 {
   padding-top: 130px;
 }
+
+.logo-img {
+  width: 40px;
+}
 .navbar-nav .nav-item:last-child {
   padding-right: 50px;
 }
